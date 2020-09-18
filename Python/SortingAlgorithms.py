@@ -27,9 +27,3 @@ def CountingSort(nums):
 
 def RadixSort(nums):
     pass
-
-nums = [10, 9, 8]
-SelectionSort(nums)
-print(nums)
-
-
